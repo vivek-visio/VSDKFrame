@@ -1,0 +1,16 @@
+PODS:
+  - VSDKFrame (0.1.0)
+
+DEPENDENCIES:
+  - VSDKFrame (from `../`)
+
+EXTERNAL SOURCES:
+  VSDKFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VSDKFrame: c392a757c83c25ce93eaa45be87d8671b980c1bb
+
+PODFILE CHECKSUM: ea9a98bb6c5392cdf8e10962d0f4803d0ded4261
+
+COCOAPODS: 1.15.2

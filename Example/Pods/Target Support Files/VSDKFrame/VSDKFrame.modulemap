@@ -1,0 +1,6 @@
+framework module VSDKFrame {
+  umbrella header "VSDKFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}
